@@ -1,0 +1,19 @@
+# Enviroments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+venv_tt/
+
+# Datos (evitar limite github)
+data-understanding/*.csv
+
+# pycache
+__pycache__/
+*.py[cod]
+
+# secrets
+secrets.toml
